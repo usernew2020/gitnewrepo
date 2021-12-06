@@ -1,0 +1,2 @@
+# gitnewrepo
+gitinfo
